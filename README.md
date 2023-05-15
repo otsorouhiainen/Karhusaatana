@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Otso Rouhiainen
-- 👀 I’m interested in programming, 
-- 🌱 I’m currently learning java, webdev
-- 📫 How to reach me otso.rouhiainen@gmail.com
+Currently studying in Tampere University.
+
+Languages: Java, C++, Javascript, HTML, CSS
